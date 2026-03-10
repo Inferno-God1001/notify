@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="notify",
-    version="1.0.1",
+    version="1.0.2",
     description="Simple Termux notification library",
     author="Inferno-God1001",
     packages=find_packages(),
